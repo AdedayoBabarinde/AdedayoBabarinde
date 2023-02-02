@@ -17,3 +17,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adedayobabarinde&show_icons=true&locale=en&layout=compact" alt="adedayobabarinde" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adedayobabarinde&show_icons=true&locale=en" alt="adedayobabarinde" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adedayobabarinde&" alt="adedayobabarinde" /></p>
