@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adedayo Babarinde</h1>
-<h3 align="center">Am a DevOps Engineer and AWS Certified Solutions Architect</h3>
+<h3 align="center">Am a DevOps Engineer
 
-- 🌱 I’m currently learning **C#, Drupal, Azure**
+- 🌱 I’m currently learning **C#, Drupal**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdedayoBabarinde](https://github.com/AdedayoBabarinde)
 
